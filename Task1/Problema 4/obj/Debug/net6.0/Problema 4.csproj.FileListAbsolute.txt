@@ -1,0 +1,14 @@
+C:\Users\hugor\Desktop\aulas\alunos\Fernando Maciel superprof\Problema 4\bin\Debug\net6.0\Problema 4.exe
+C:\Users\hugor\Desktop\aulas\alunos\Fernando Maciel superprof\Problema 4\bin\Debug\net6.0\Problema 4.deps.json
+C:\Users\hugor\Desktop\aulas\alunos\Fernando Maciel superprof\Problema 4\bin\Debug\net6.0\Problema 4.runtimeconfig.json
+C:\Users\hugor\Desktop\aulas\alunos\Fernando Maciel superprof\Problema 4\bin\Debug\net6.0\Problema 4.dll
+C:\Users\hugor\Desktop\aulas\alunos\Fernando Maciel superprof\Problema 4\bin\Debug\net6.0\ref\Problema 4.dll
+C:\Users\hugor\Desktop\aulas\alunos\Fernando Maciel superprof\Problema 4\bin\Debug\net6.0\Problema 4.pdb
+C:\Users\hugor\Desktop\aulas\alunos\Fernando Maciel superprof\Problema 4\obj\Debug\net6.0\Problema 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugor\Desktop\aulas\alunos\Fernando Maciel superprof\Problema 4\obj\Debug\net6.0\Problema 4.AssemblyInfoInputs.cache
+C:\Users\hugor\Desktop\aulas\alunos\Fernando Maciel superprof\Problema 4\obj\Debug\net6.0\Problema 4.AssemblyInfo.cs
+C:\Users\hugor\Desktop\aulas\alunos\Fernando Maciel superprof\Problema 4\obj\Debug\net6.0\Problema 4.csproj.CoreCompileInputs.cache
+C:\Users\hugor\Desktop\aulas\alunos\Fernando Maciel superprof\Problema 4\obj\Debug\net6.0\Problema 4.dll
+C:\Users\hugor\Desktop\aulas\alunos\Fernando Maciel superprof\Problema 4\obj\Debug\net6.0\ref\Problema 4.dll
+C:\Users\hugor\Desktop\aulas\alunos\Fernando Maciel superprof\Problema 4\obj\Debug\net6.0\Problema 4.pdb
+C:\Users\hugor\Desktop\aulas\alunos\Fernando Maciel superprof\Problema 4\obj\Debug\net6.0\Problema 4.genruntimeconfig.cache

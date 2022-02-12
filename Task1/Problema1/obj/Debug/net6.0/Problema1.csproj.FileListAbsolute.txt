@@ -1,0 +1,14 @@
+C:\Users\hugor\Desktop\aulas\alunos\Fernando Maciel superprof\task1\bin\Debug\net6.0\Problema1.exe
+C:\Users\hugor\Desktop\aulas\alunos\Fernando Maciel superprof\task1\bin\Debug\net6.0\Problema1.deps.json
+C:\Users\hugor\Desktop\aulas\alunos\Fernando Maciel superprof\task1\bin\Debug\net6.0\Problema1.runtimeconfig.json
+C:\Users\hugor\Desktop\aulas\alunos\Fernando Maciel superprof\task1\bin\Debug\net6.0\Problema1.dll
+C:\Users\hugor\Desktop\aulas\alunos\Fernando Maciel superprof\task1\bin\Debug\net6.0\ref\Problema1.dll
+C:\Users\hugor\Desktop\aulas\alunos\Fernando Maciel superprof\task1\bin\Debug\net6.0\Problema1.pdb
+C:\Users\hugor\Desktop\aulas\alunos\Fernando Maciel superprof\task1\obj\Debug\net6.0\Problema1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugor\Desktop\aulas\alunos\Fernando Maciel superprof\task1\obj\Debug\net6.0\Problema1.AssemblyInfoInputs.cache
+C:\Users\hugor\Desktop\aulas\alunos\Fernando Maciel superprof\task1\obj\Debug\net6.0\Problema1.AssemblyInfo.cs
+C:\Users\hugor\Desktop\aulas\alunos\Fernando Maciel superprof\task1\obj\Debug\net6.0\Problema1.csproj.CoreCompileInputs.cache
+C:\Users\hugor\Desktop\aulas\alunos\Fernando Maciel superprof\task1\obj\Debug\net6.0\Problema1.dll
+C:\Users\hugor\Desktop\aulas\alunos\Fernando Maciel superprof\task1\obj\Debug\net6.0\ref\Problema1.dll
+C:\Users\hugor\Desktop\aulas\alunos\Fernando Maciel superprof\task1\obj\Debug\net6.0\Problema1.pdb
+C:\Users\hugor\Desktop\aulas\alunos\Fernando Maciel superprof\task1\obj\Debug\net6.0\Problema1.genruntimeconfig.cache
